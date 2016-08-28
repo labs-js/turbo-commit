@@ -21,11 +21,12 @@ This will create git logs nicer and easier to see. Some extra magic comes after 
 > Each possible tag has only 3 uppercase letters between Brackets
 
      [ADD] : features commits, adding lines of code.
-     [DEL] : removing lines of code, code cleanup, remove old lib,unused assets, etc.
-     [MOD] : modifying the way of do something, tiny changes
      [FIX] : bugfixing commits
+     [MOD] : modifying the way of do something, tiny changes
+     [DEL] : removing lines of code, code cleanup, remove old lib,unused assets, etc.
      [REF] : commits part of a refactor
      [BRK] : breaking change commits
+     [MRG] : merge commits
 
 > Why only 3 letter?
 
