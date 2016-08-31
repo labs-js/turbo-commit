@@ -22,7 +22,7 @@
   "rules": {
     "semi": [2, "always"],
     "no-cond-assign": 1,
-    "no-console": 1,
+    "no-console": 0,
     "no-empty": 1,
     "no-extra-semi": 1,
     "no-undef": 1,
