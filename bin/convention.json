@@ -1,0 +1,11 @@
+{
+    "angular":{
+        "file":"config.angular.json" 
+    },
+    "ui5":{
+        "file":"config.ui5.json" 
+    },
+    "default":{
+        "file":"config.default.json" 
+    }
+}
