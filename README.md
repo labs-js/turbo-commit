@@ -7,7 +7,9 @@
 [![gitter](https://img.shields.io/gitter/room/turbo-commit/turbo-commit.svg?style=flat)](https://gitter.im/turbo-commit/Lobby)
 
 
-# Turbo Commit CLI
+# Turbo Commit CLI (deprecated)
+
+# This project was refactored and renamed it.. So you should take a look to [Turbo Git](https://github.com/labs-js/turbo-git) from now on.
 
 This CLI tool was originally thought for implementing the [turbo-commit](/CONVENTION.md) convention easily. Now It's more than that.. You can use it with any other commit convention (aviable soon). And it's also good for tuning out of the box git commands.
 
